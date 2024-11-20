@@ -1,5 +1,5 @@
 # Module05-Exercise01
-This repository contains the solution for Module05-Exercise01. Below are the details of the project, including screenshots and personal information.
+This repository contains the solution for Module05-Exercise02. Below are the details of the project, including screenshots and personal information.
 
 ## Screenshots
 
@@ -21,4 +21,4 @@ Here are the screenshots of the application:
 
 - **Name**: Paul Trustan S. Yumang
 - **Section**: BSIT 4 - A
-- **Date**: October 16, 2024
+- **Date**: October 30, 2024
